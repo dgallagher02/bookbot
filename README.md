@@ -1,1 +1,1 @@
-BookBot is my first boot.dev project.
+BookBot is my first project for boot.dev.
